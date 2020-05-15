@@ -18,6 +18,7 @@ Every year, Stack Overflow conducts a massive survey of people on the site, cove
 ## To Download this Project at local Machine Do Following.
 ````
 git clone https://github.com/Hnmani/stackoverflow-survey-2017.git
+cd stackoverflow-survey-2017
 `````
 
 ### Install jupyter notebook
